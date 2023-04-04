@@ -10,7 +10,7 @@ updates:
     schedule:
       interval: weekly
       day: monday
-      time: "8:00"
+      time: "08:00"
       timezone: America/Indiana/Knox
     reviewers:
       - "LaunchCodeEducation/Engineering"
