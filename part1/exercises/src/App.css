@@ -37,6 +37,7 @@
   }
 }
 
-.movie {
-  color: blue;
+.similarComponents {
+  display:flex;
+justify-content:space-between;
 }
