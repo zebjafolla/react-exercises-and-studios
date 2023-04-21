@@ -5,13 +5,12 @@
 
 version: 2
 updates:
-  - package-ecosystem: npm
-    directory: "/"
+  - package-ecosystem: "npm"
+    directory: "/part1/exercises"
     schedule:
-      interval: weekly
-      day: monday
+      interval: "monthly"
       time: "08:00"
-      timezone: America/Indiana/Knox
+      timezone: "America/Indiana/Knox"
     reviewers:
       - "LaunchCodeEducation/Engineering"
     labels:
