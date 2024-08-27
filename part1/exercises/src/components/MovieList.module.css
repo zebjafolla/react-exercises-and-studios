@@ -8,3 +8,8 @@
    color: darkgrey;
    text-align: left;
 }
+
+.border {
+   border: 2px solid #e6e6e6;
+   background-color: pink;
+}
